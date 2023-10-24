@@ -2,7 +2,7 @@
 {
   "name": "Chat-Gpt",
   "description": "A Telegram open-ai Chatgpt bot.",
-  "logo": "https://te.legra.ph/file/9fa2101b77407dbec7d31.jpg",
+  "logo": "https://telegra.ph/file/4e2274d0fc35f4b9dfa35.jpg",
   "keywords": [
     "telegram", "chatgpt",
     "python",
@@ -61,5 +61,5 @@
       "required": true
     }
   },
-  "repository": "https://github.com/noob-mukesh/Chatgpt-bot"
+  "repository": "https://github.com/PB65-Aujla/Chatgpt-bot"
 }
